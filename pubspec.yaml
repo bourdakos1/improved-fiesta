@@ -20,4 +20,4 @@ dev_dependencies:
   # You can reference it for useful cross-platform testing functionality
   # or remove it if you want to use this example standalone.
   test_utils:
-    path: ../test_utils
+    path: ./test_utils
